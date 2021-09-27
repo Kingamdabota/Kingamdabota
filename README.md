@@ -15,4 +15,9 @@
 <p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api?username=Kingamda&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingamda&theme=radical&layout=compact"></a></p> 
 
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamda&repo=Alphabot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamda&repo=Rest-api-alphabot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamda&repo=Alphabot7&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamda&repo=BOTZ10a&theme=nightowl)
 
