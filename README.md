@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/CnQZq5k/kingamdalogo.jpg" height="100px" width="100px"/>
-</p>
+<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+
+![logo](https://i.ibb.co/WptgJ04/LOGO.png)
