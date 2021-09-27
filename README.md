@@ -1,3 +1,3 @@
-<p align="center" higth="200px" >
-  <img src="https://i.ibb.co/CnQZq5k/kingamdalogo.jpg" />
+<p align="center">
+  <img src="https://i.ibb.co/CnQZq5k/kingamdalogo.jpg" width="40px"/>
 </p>
