@@ -1,7 +1,7 @@
 <h1 align="center"><b> 👑★彡[♔ᴋɪɴɢ ᴀᴍᴅᴀ♔]彡★👑  </b></h1>
 
 ![logo](https://i.ibb.co/WptgJ04/LOGO.png )
-<img src="https://i.ibb.co/WptgJ04/LOGO.png " width="900" height="1000">
+<img src="https://i.ibb.co/WptgJ04/LOGO.png " width="700" height="1000">
 
 <p align="center">
 
