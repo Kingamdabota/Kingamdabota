@@ -1,4 +1,4 @@
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+<img src="https://i.ibb.co/kgfhqgB/git-banaer.png" width="100" height="100"/>
 <h1 align="center">Hi 👋, I'm Pasindu Samara$ingha</h1>
 <h3 align="center">Owner Of The King Amda</h3>
 
