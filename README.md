@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/kgfhqgB/git-banaer.png" width="100" height="100"/>
+<img src="https://h.top4top.io/p_2112j5xfx1.png"/>
 <h1 align="center">Hi 👋, I'm Pasindu Samara$ingha</h1>
+<img src="https://h.top4top.io/p_2112j5xfx1.png" />
 <h3 align="center">Owner Of The King Amda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingamdabota&label=Profile%20views&color=0e75b6&style=flat" alt="kingamdabota" /> </p>
