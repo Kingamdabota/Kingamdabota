@@ -1,7 +1,7 @@
 <img src="gitbanaer.png" />
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=KingAmda-Rest-api &theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=zeeoneofc&theme=nightowl)
