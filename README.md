@@ -1,3 +1,4 @@
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
 <h1 align="center">Hi 👋, I'm Pasindu Samara$ingha</h1>
 <h3 align="center">Owner Of The King Amda</h3>
 
