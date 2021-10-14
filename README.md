@@ -21,7 +21,6 @@
 <h1></h1>
 <p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingamdabota&theme=radical&layout=compact"></a></p> 
   <p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api?username=Kingamdabota&show_icons=true&theme=radical"></a></p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ### Repo Stats 🔭
