@@ -28,7 +28,6 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=tokyonight)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=tokyonight)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=KingAmda-Rest-api)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamdabota&theme=tokyonight)
 
