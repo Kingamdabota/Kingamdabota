@@ -25,3 +25,10 @@
   
 ### Repo Stats 🔭
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=tokyonight)](https://github.com/Kingamdabota/Kingamda-v1)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=tokyonight)](https://github.com/Kingamdabota/github-profile-readme-generator)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=KingAmda-Rest-api)](https://github.com/Kingamdabota/KingAmda-Rest-api)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamdabota&theme=tokyonight)](https://github.com/Kingamdabota/Kingamdabota)
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=tokyonight)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=tokyonight)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
+
