@@ -7,8 +7,7 @@
  <li><b>😁I'm 17 Years Old</b></li>
 </ul> 
 <h1></h1>
-<p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingamdabota&theme=radical&layout=compact"></a></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingamdabota&" alt="kingamdabota" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingamdabota&theme=radical" alt="kingamdabota" /></p>
 
 <h1></h1>
 <h3 align="left">Languages and Tools:</h3>
@@ -25,18 +24,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-  
- 
-
-
-
-
-
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=KingAmda-Rest-api &theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=zeeoneofc&theme=nightowl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamda-v1&theme=tokyonight)](https://github.com/Kingamdabota/Kingamda-v1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=github-profile-readme-generator&theme=tokyonight)](https://github.com/Kingamdabota/github-profile-readme-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=KingAmda-Rest-api)](https://github.com/Kingamdabota/KingAmda-Rest-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingamdabota&repo=Kingamdabota&theme=tokyonight)](https://github.com/Kingamdabota/Kingamdabota)
