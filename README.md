@@ -6,6 +6,9 @@
  <li><b>🚀I'm A Not Developer</b></li>
  <li><b>😁I'm 17 Years Old</b></li>
 </ul> 
+<h1></h1>
+
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,15 +18,22 @@
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   </p>
-  
-  <p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
-  <p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
+
+<p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingamdabota&theme=radical&layout=compact"></a></p> 
+  <p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api?username=Kingamdabota&show_icons=true&theme=radical"></a></p>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingamdabota&show_icons=true&locale=en&layout=compact" alt="kingamdabota" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingamdabota&show_icons=true&locale=en" alt="kingamdabota" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingamdabota&" alt="kingamdabota" /></p>
 
 
 
