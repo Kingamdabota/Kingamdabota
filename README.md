@@ -7,8 +7,9 @@
  <li><b>😁I'm 17 Years Old</b></li>
 </ul> 
 <h1></h1>
+<p align="center"><a href="https://github.com/Kingamdabota"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingamdabota&theme=radical&layout=compact"></a></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingamdabota&" alt="kingamdabota" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingamdabota&" alt="kingamdabota" /></p>
 <h1></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
